@@ -15,7 +15,9 @@ Update a Sighting: Modify an existing sighting's details, such as species, locat
 Delete a Sighting: Remove a sighting by ID.
 # Future Enhancements
 v1: Wildlife tracking using FastAPI and a dictionary for data storage.
+
 v2: Wildlife tracking using FastAPI and PostgreSQL for data storage.
+
 v3: Wildlife tracking using FastAPI for the backend, PostgreSQL for the database, and Streamlit for the frontend.
 # Endpoints:
 POST /sightings: Create a new sighting.
