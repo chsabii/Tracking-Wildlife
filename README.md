@@ -18,8 +18,11 @@ Delete a Sighting: Remove a sighting by ID.
 POST /sightings: Create a new sighting.
 
 GET /sightings: Get a list of all sightings (optionally filter by species and location).
+
 GET /sightings/{id}: Get details of a sighting by ID.
+
 PUT /sightings/{id}: Update an existing sighting.
+
 DELETE /sightings/{id}: Delete a sighting by ID.
 Validation:
 Species & Location: Must be capitalized and within specified character limits.
