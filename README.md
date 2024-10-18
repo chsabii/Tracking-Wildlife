@@ -36,4 +36,4 @@ Date & Time: Validates input formats to ensure correctness.
 # view
 Once the application is running, visit http://localhost:8000/docs for interactive API documentation using Swagger UI.
 # License
-This project is licensed under the RIVON License. See the LICENSE file for details.
+This project is licensed under the [RIVON-AI](https://github.com/rivon-ai) License. See the LICENSE file for details.
